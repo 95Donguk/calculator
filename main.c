@@ -32,7 +32,7 @@ int main(int argc, char* argv[])
 			break;
 	}
 	
-	printf("결과 is %d.\n", result);
+	printf("result is %d.\n", result);
 	
 	return 0;
 }
